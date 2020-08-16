@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf239c97-1f6f-49cd-a205-2d173ecf618d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bf239c97-1f6f-49cd-a205-2d173ecf618d" name="Default Changelist" comment="测试 Github!">
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/SpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/SpringbootApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -175,8 +173,23 @@
       <workItem from="1596524310839" duration="4619000" />
       <workItem from="1596596341631" duration="1405000" />
       <workItem from="1597591713841" duration="75000" />
-      <workItem from="1597592171337" duration="1027000" />
+      <workItem from="1597592171337" duration="1281000" />
     </task>
+    <task id="LOCAL-00001" summary="测试 Github!">
+      <created>1597593248456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597593248456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试 Github!">
+      <created>1597593331821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597593331821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,5 +205,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试 Github!" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试 Github!" />
   </component>
 </project>
